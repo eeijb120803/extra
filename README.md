@@ -3,8 +3,8 @@
   <channel>
     <title>Playlist Feed</title>
     <item>
-       <title>soma.fm GrooveSalad MP3 56</title>
-       <link>http://somafm.com/groovesalad56.pls</link>
+       <title>Los Teke Teke Makina</title>
+       <link>http://music.lomaximoproductions.com/music/singles/2013-04-11/Dembow%20Singles/Los%20Teke%20Teke%20-%20Makina.mp3</link>
     </item>
     <item>
        <title>BassDrive AAC</title>
